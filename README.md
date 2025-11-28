@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there!
 
-<!--
-**JAssalis/JAssalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm and Finance and Business student at USP, interested in data science and financial markets.
 
-Here are some ideas to get you started:
+###  About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business Innovation Intern at USP Innovation Agency. Executive Board Member at Neuron (FEARP's Data Science league), where I organized technical events and teach programming courses.
+
+### Stack
+
+- **Python** - Data analysis and financial applications
+- **SQL** - MySQL, SQLite
+- **Data** - Manipulation and modeling
+
+### Highlighted Projects
+
+- Organizer of AI & Data Week 2025 (150+ participants)
+- Dataset development for Datathon sponsored by Solana Brasil
+- SQL instructor for financial analysis courses
+
+### Contact
+
+**Email:** jvapedroso@usp.br  
+**LinkedIn:** [linkedin.com/in/joaoassalis](https://www.linkedin.com/in/joaoassalis/)
