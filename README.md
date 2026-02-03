@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm and Finance and Business student at USP, interested in data science and financial markets.
+I'm and Finance and Business student at Universidade de São Paulo (USP), interested in data science and financial markets.
 
 ###  About
 
