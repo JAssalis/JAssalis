@@ -4,7 +4,7 @@ I'm and Finance and Business student at Universidade de São Paulo (USP), intere
 
 ###  About
 
-Business Innovation Intern at USP Innovation Agency. Executive Board Member at Neuron (FEARP's Data Science league), where I organized technical events and teach programming courses.
+Bussines Inteligent Intern at Barenbrug Brasil. Executive Board Member at Neuron (FEARP's Data Science league), where I organized technical events and teach programming courses.
 
 ### Stack
 
