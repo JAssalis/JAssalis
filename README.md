@@ -11,7 +11,8 @@ Bussines Inteligent Intern at Barenbrug Brasil. Executive Board Member at Neuron
 - **Python** - Data analysis and financial applications
 - **SQL** - MySQL, SQLite
 - **Data** - Manipulation and modeling
-
+- **Microsoft 365** - PowerApps, Excel, PowerBi
+  
 ### Highlighted Projects
 
 - Organizer of AI & Data Week 2025 (150+ participants)
