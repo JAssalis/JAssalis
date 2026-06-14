@@ -1,10 +1,10 @@
 ## Hey there!
 
-I'm and Finance and Business student at Universidade de São Paulo (USP), interested in data science and financial markets.
+I'm a Finance and Business student at Universidade de São Paulo (USP), interested in data science and financial markets.
 
 ###  About
 
-Bussines Inteligent Intern at Barenbrug Brasil. Executive Board Member at Neuron (FEARP's Data Science league), where I organized technical events and teach programming courses.
+Business Intelligence Intern at Barenbrug Brasil. Executive Board Member at Neuron (FEARP's Data Science league), where I organized technical events and teach programming courses.
 
 ### Stack
 
